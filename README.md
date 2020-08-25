@@ -1,7 +1,10 @@
-<div align="center">
-  <h1> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-</div>
-(https://komarev.com/ghpvc/?username=sany07)
+### Hi there 👋
+
+![](https://komarev.com/ghpvc/?username=sany07)
+#### Rk here 👦
+
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning [**Godot**](https://godotengine.org/)
 
 ---
 ## Github Stats
