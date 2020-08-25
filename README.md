@@ -9,36 +9,13 @@
 
 <p align="left">
 
-  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a>  
 
 
-  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a>  
 
-  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-
-</p>
 
 ---
 ## Github Stats
 
 ![Sany's Github Stats](https://github-readme-stats.vercel.app/api?username=sany07&show_icons=true&hide_border=true)
 ![](https://komarev.com/ghpvc/?username=sany07)
+</p>
