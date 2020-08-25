@@ -4,7 +4,7 @@
 #### Rk here 👦
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning [**Godot**](https://godotengine.org/)
+- 🌱 
 
 
 ---
