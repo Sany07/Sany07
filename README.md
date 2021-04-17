@@ -14,14 +14,15 @@ About me:
 
 - 🌱 I’m currently learning new tech.
 - 👯 I’m looking to collaborate on Python, PHP.
-- 🤔 I’m looking for help with GraphQL.
-- 💬 Ask me about anything, I am happy to help.
+- 🤔 I’m looking for help with ReactJs & GraphQL.
 - 🔭 I’m currently contributing to open source.
+- 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: Email, Facebook
 
 
 
 
 ![Sany's Github Stats](https://github-readme-stats.vercel.app/api?username=sany07&show_icons=true&hide_border=true)
-![](https://komarev.com/ghpvc/?username=sany07)
 
+
+<h1 align="center">![](https://komarev.com/ghpvc/?username=sany07)</h1>
