@@ -1,4 +1,4 @@
-Hi there, 👋, I'm Ahasan Habib Sany
+Hi there, 👋, I'm Sany
 
 
 
