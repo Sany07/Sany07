@@ -15,8 +15,7 @@ Python, C/C++, Java, JavaScript, PHP
 About me:
 
 - 🌱 I’m currently learning new tech.
-- 👯 I’m looking to collaborate on Python, PHP.
-- 🤔 I’m looking for help with ReactJs & GraphQL.
+- 🤔 I’m looking for help with ReactJs.
 - 🔭 I’m currently contributing to open source.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: Email, Facebook
