@@ -20,6 +20,10 @@ About me:
 - 📫 How to reach me: Email, Facebook
 
 
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```Python
 frontEnd = {
             js: ["React", "Redux"],
             css: ["bootstrap","materialize"]
@@ -31,8 +35,7 @@ backEnd: {
 databases: ["PostgreSQL", "MySql"],
 
 code: ["Python", "C", "Java", "JavaScript", "PHP"],
-
-
+```
 ![Sany's Github Stats](https://github-readme-stats.vercel.app/api?username=sany07&show_icons=true&hide_border=true)
 
 
