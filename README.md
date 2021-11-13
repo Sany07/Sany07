@@ -15,12 +15,22 @@ Python, C/C++, Java, JavaScript, PHP
 About me:
 
 - 🌱 I’m currently learning new tech.
-- 🤔 I’m looking for help with ReactJs.
 - 🔭 I’m currently contributing to open source.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: Email, Facebook
 
 
+frontEnd = {
+            js: ["React", "Redux"],
+            css: ["bootstrap","materialize"]
+          }
+backEnd: {
+            python: ["Django", "Django Rest Framework"],
+            php:["Laravel"]
+        }
+databases: ["PostgreSQL", "MySql"],
+
+code: ["Python", "C", "Java", "JavaScript", "PHP"],
 
 
 ![Sany's Github Stats](https://github-readme-stats.vercel.app/api?username=sany07&show_icons=true&hide_border=true)
