@@ -17,7 +17,7 @@ About me:
 - 🌱 I’m currently learning new tech.
 - 🔭 I’m currently contributing to open source.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: Email, Facebook
+- 📫 How to reach me: Email, Facebook, Linkedin
 
 
 
