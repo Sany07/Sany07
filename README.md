@@ -37,7 +37,7 @@ backEnd: {
         }
 databases: ["PostgreSQL", "MySql"],
 
-other: ['Firebase',''Heroku','Git']
+other: ["Firebase","Heroku","Git"]
 ```
 ![Sany's Github Stats](https://github-readme-stats.vercel.app/api?username=sany07&show_icons=true&hide_border=true)
 
