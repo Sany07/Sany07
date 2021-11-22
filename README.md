@@ -25,19 +25,19 @@ About me:
 
 ```Python
 
-language: ["Python", "C", "Java", "JavaScript", "PHP"],
+lanGuage= ["Python", "C", "C++", "Java", "JavaScript", "PHP"],
 
-frontEnd: {
+frontEnd= {
             js: ["React", "Redux"],
             css: ["bootstrap","materialize"]
-           }
-backEnd: {
+          }
+backEnd=  {
             python: ["Django", "Django Rest Framework"],
             php:["Laravel"]
-         }
-databases: ["PostgreSQL", "MySql"],
+          } 
+dataBases= ["PostgreSQL", "MySql"],
 
-other: ["Firebase","Heroku","Git"]
+others: ["Firebase","Heroku","Git"]
 ```
 ![Sany's Github Stats](https://github-readme-stats.vercel.app/api?username=sany07&show_icons=true&hide_border=true)
 
