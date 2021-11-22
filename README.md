@@ -27,14 +27,14 @@ About me:
 
 language: ["Python", "C", "Java", "JavaScript", "PHP"],
 
-frontEnd = {
+frontEnd: {
             js: ["React", "Redux"],
             css: ["bootstrap","materialize"]
-          }
+           }
 backEnd: {
             python: ["Django", "Django Rest Framework"],
             php:["Laravel"]
-        }
+         }
 databases: ["PostgreSQL", "MySql"],
 
 other: ["Firebase","Heroku","Git"]
