@@ -9,7 +9,7 @@ Hi there, 👋, I'm Sany.
 ## Programming Languages
 
 ```
-Python, C/C++, Java, JavaScript, PHP
+Python, C/C++, C#, Java, JavaScript, PHP
 ```
 
 About me:
