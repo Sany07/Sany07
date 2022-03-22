@@ -16,7 +16,7 @@ About me:
 
 - 🌱 I’m currently learning new tech.
 - 🔭 I’m currently contributing to open source.
-- 💬 Ask me about anything, I am happy to help.
+- 💬 Ask me about anything, I'm happy to help.
 - 📫 How to reach me: Email, Facebook, Linkedin
 
 
@@ -37,7 +37,7 @@ backEnd=  {
           } 
 dataBases= ["PostgreSQL", "MySql"],
 
-others: ["Firebase","Heroku","Git"]
+others: ["Firebase","Heroku","Git","Aws s3", "Aws Ec2"]
 ```
 ![Sany's Github Stats](https://github-readme-stats.vercel.app/api?username=sany07&show_icons=true&hide_border=true)
 
