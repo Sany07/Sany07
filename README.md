@@ -38,7 +38,7 @@ backEnd=  {
           } 
 dataBases= ["PostgreSQL", "MySql"],
 
-others: ["Redux","Redux Toolkit", "Celery","Redis","Firebase","Heroku","Git","Aws s3", "Aws Ec2"]
+others: ["Redux","Redux Toolkit", "Celery","Redis","Firebase","Heroku","Git","Jira","Aws s3", "Aws Ec2"]
 ```
 ![Sany's Github Stats](https://github-readme-stats.vercel.app/api?username=sany07&show_icons=true&hide_border=true)
 
