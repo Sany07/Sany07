@@ -32,12 +32,13 @@ frontEnd= {
             css: ["bootstrap","materialize"]
           }
 backEnd=  {
-            python: ["Django", "Django Rest Framework","Express"],
+            python: ["Django", "Django Rest Framework"],
+            javascript:["NodeJs","ExpressJs"],
             php:["Laravel"]
           } 
 dataBases= ["PostgreSQL", "MySql"],
 
-others: ["Redux","Celery","Redis","Firebase","Heroku","Git","Aws s3", "Aws Ec2"]
+others: ["Redux","Redux Toolkit", "Celery","Redis","Firebase","Heroku","Git","Aws s3", "Aws Ec2"]
 ```
 ![Sany's Github Stats](https://github-readme-stats.vercel.app/api?username=sany07&show_icons=true&hide_border=true)
 
