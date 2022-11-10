@@ -30,7 +30,7 @@ lanGuage= ["Python", "C", "C++", "Java", "JavaScript", "PHP"],
 
 frontEnd= {
             js: ["React"],
-            css: ["bootstrap","materialize"]
+            markup&style: ["HTML","HTML5","CSS","CSS3","Bootstrap","Materialize","Tailwind"]
           }
 backEnd=  {
             python: ["Django", "Django Rest Framework"],
