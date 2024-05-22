@@ -42,12 +42,11 @@ dataBases= ["PostgreSQL", "MySql"],
 others: ["Redux","Redux Toolkit","Celery","Redis","Firebase","Heroku","Aws s3","Aws Ec2"],
 
 tools: ["Git","Jira","Postman","Thunder client","Etc"]
-```
-![Sany's Github Stats](https://github-readme-stats.vercel.app/api?username=sany07&show_icons=true&hide_border=true)
+
+##![Sany's Github Stats](https://github-readme-stats.vercel.app/api?username=sany07&show_icons=true&hide_border=true)
 
 
 
 
-
-//<h1 align="center"> <img align="left" src="https://komarev.com/ghpvc/?username=sany07" /></h1>
+<h1 align="center"> <img align="left" src="https://komarev.com/ghpvc/?username=sany07" /></h1>
 
